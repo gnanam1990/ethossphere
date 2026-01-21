@@ -9,3 +9,10 @@ coverage
 .turbo
 .DS_Store
 
+# Local scratch
+.tmp
+
+# Hardhat / generated
+contracts/artifacts
+contracts/cache
+contracts/typechain-types
